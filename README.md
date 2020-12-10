@@ -24,6 +24,6 @@ The following challenge criteria was fully met:
 
 10) Repository contains quality README file with description, screenshot, and link to deployed application.
 
-As you can see from the screenshot below, this website was successfully pushed and hosted on GitHub @ https://derekmiller88.github.io/vandy-challenge-1/#social-media-marketing.
+As you can see from the screenshot below, this website was successfully pushed and hosted on GitHub @ https://derekmiller88.github.io/vandy-challenge-1/
 
-![Screenshot of Challenge 1 website.] (./Develop/assets/images/websiteScreenshot.png "Screenshot of Challenge 1 Website")
+![Screenshot of Challenge 1 website.] (https://github.com/derekmiller88/vandy-challenge-1/blob/main/Develop/assets/images/websiteScreenshot.PNG "Screenshot of Challenge 1 Website")
